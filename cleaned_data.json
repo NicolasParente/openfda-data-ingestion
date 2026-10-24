@@ -1,0 +1,102 @@
+{
+    "10003301": {
+        "medicinalproduct": "IBUPROFEN",
+        "reactionmeddrapt": [
+            "Dyspepsia",
+            "Renal impairment"
+        ],
+        "patientonsetage": "Not specified"
+    },
+    "10003319": {
+        "medicinalproduct": "BENLYSTA",
+        "reactionmeddrapt": [
+            "Cholecystectomy",
+            "Nephrolithiasis",
+            "Biliary tract disorder",
+            "Malaise"
+        ],
+        "patientonsetage": "46"
+    },
+    "10003865": {
+        "medicinalproduct": "YAZ",
+        "reactionmeddrapt": [
+            "Cerebral venous thrombosis",
+            "Jugular vein thrombosis"
+        ],
+        "patientonsetage": "18"
+    },
+    "10004019": {
+        "medicinalproduct": "EXTAVIA",
+        "reactionmeddrapt": [
+            "Multiple sclerosis relapse",
+            "Dysaesthesia"
+        ],
+        "patientonsetage": "33"
+    },
+    "10004183": {
+        "medicinalproduct": "JAKAFI",
+        "reactionmeddrapt": [
+            "Weight loss poor"
+        ],
+        "patientonsetage": "54"
+    },
+    "10004208": {
+        "medicinalproduct": "IBUPROFEN",
+        "reactionmeddrapt": [
+            "Off label use",
+            "Stevens-Johnson syndrome",
+            "Consciousness fluctuating",
+            "Lip swelling",
+            "Lip discolouration",
+            "Blister",
+            "Pain",
+            "Skin exfoliation",
+            "Chapped lips",
+            "Eye disorder",
+            "Scab",
+            "Scar",
+            "Weight decreased",
+            "Skin disorder",
+            "Rash generalised",
+            "Dyspnoea",
+            "Hypersensitivity",
+            "Malaise"
+        ],
+        "patientonsetage": "13"
+    },
+    "10004241": {
+        "medicinalproduct": "VARENICLINE TARTRATE",
+        "reactionmeddrapt": [
+            "Hallucination, auditory",
+            "Nervousness",
+            "Feeling abnormal"
+        ],
+        "patientonsetage": "Not specified"
+    },
+    "10004377": {
+        "medicinalproduct": "IBUPROFEN (UNKNOWN)",
+        "reactionmeddrapt": [
+            "Hypoaesthesia oral",
+            "Hypoaesthesia"
+        ],
+        "patientonsetage": "24"
+    },
+    "10004379": {
+        "medicinalproduct": "LYRICA",
+        "reactionmeddrapt": [
+            "Malaise",
+            "Pain",
+            "Feeling abnormal"
+        ],
+        "patientonsetage": "46"
+    },
+    "10004622": {
+        "medicinalproduct": "JAKAFI",
+        "reactionmeddrapt": [
+            "White blood cell count increased",
+            "Platelet count decreased",
+            "Contusion"
+        ],
+        "patientonsetage": "71"
+    }
+}
